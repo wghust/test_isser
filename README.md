@@ -7,5 +7,6 @@ here is the words<br>
 function test() {
   alert("hello world");
 }
+test();
 </code>
 </pre>
