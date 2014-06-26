@@ -1,9 +1,11 @@
 test_issues
 ==========
 
-here is the words
+here is the words<br>
+<pre>
 <code>
 function test() {
   alert("hello world");
 }
-</code
+</code>
+</pre>
